@@ -17,6 +17,7 @@ bool equal(int grid[][4], int temp[][4]);
 
 int main()
 {
+	// welcome message display
 	cout << "               WELCOME TO !" << endl
 		 << endl;
 	cout << "1111"
